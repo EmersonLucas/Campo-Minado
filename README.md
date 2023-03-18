@@ -12,6 +12,6 @@ JDK 19
 
 # ScreensShots
 
-![1](https://github.com/EmersonLucas/Campo-Minado/blob/main/CampoMinadoSwing/screenshots/1.png)
+![1]("https://github.com/EmersonLucas/Campo-Minado/blob/main/CampoMinadoSwing/screenshots/1.png" width=115)
 ![2](https://github.com/EmersonLucas/Campo-Minado/blob/main/CampoMinadoSwing/screenshots/2.png)
 
